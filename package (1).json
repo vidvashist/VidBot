@@ -1,0 +1,16 @@
+{
+  "name": "vid-bot",
+  "version": "0.0.0",
+  "description": "a helpful bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "esm": "^3.2.25",
+    "slackbots": "^1.2.0"
+  }
+}
